@@ -17,31 +17,59 @@ footer {
 }
 
 .w {
-
+background-image: url("images/crash.png");
+background-repeat: no-repeat;
+background-position: center;
+background-size:40%;
+padding: auto;
 }
 
 .a {
-
+  background-image: url("images/kick.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:40%;
+  padding: auto;
 }
 
 .s {
-
+  background-image: url("images/snare.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:40%;
+  padding: auto;
 }
 
 .d {
-
+  background-image: url("images/tom1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:40%;
+  padding: auto;
 }
 
 .j {
-
+  background-image: url("images/tom2.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:40%;
+  padding: auto;
 }
 
 .k {
-
+  background-image: url("images/tom3.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:40%;
+  padding: auto;
 }
 
 .l {
-
+  background-image: url("images/tom4.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:40%;
+  padding: auto;
 }
 
 .set {

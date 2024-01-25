@@ -97,8 +97,8 @@ padding: auto;
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
-  color: #DA0463;
-  text-shadow: 3px 0 #DBEDF3;
+  color: transparent;
+  text-shadow: 3px 0 transparent;
   border-radius: 15px;
   display: inline-block;
   width: 150px;
@@ -106,4 +106,33 @@ padding: auto;
   text-align: center;
   margin: 10px;
   background-color: white;
+}
+
+.fa-linkedin {
+  color: #ebeff1;
+}
+.fa-github {
+  color: #ebeff1;
+  background: var(--clr-body-bcg);
+  border-radius: 50%;
+}
+.social-icon span {
+  display: none;
+}
+.social-icon:hover i {
+  color: var(--clr-body-bcg);
+}
+.social-icons {
+  background: transparent;
+  padding: 0 5rem;
+}
+.social-icons h4 {
+  display: block;
+  text-transform: none;
+}
+.social-icon:hover i {
+  color: var(--clr-font);
+}
+.social-icon:hover {
+  transform: scale(1.01);
 }
